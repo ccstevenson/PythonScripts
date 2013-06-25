@@ -1,0 +1,1 @@
+Not all of these scripts are fully documented. Those which are contain a README in their subdirectory. They are a collection of scripts I wrote while learning Python as part of a university course.
