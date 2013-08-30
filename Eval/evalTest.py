@@ -30,7 +30,7 @@ print 'Sum of all salaries:', salarysum
                  {'employees':employees,}) #Locals --only employee allowed.
 
 print 'Sum of all salaries:', salarysum'''
-# Produces error: 'NameError: name 'sum' is not defined'
+# Fails! 'NameError: name 'sum' is not defined'
 
 
 
